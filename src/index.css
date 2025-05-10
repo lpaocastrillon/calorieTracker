@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* 🌿 Paleta personalizada - tonos pastel estilo vintage */
+:root {
+    --color-morning-birch: #E8C4A9;
+    --color-alpine-clay: #C29681;
+    --color-misty-sage: #B9AF91;
+    --color-wild-mustard: #D7A958;
+    --color-evergreen-shadow: #6D7969;
+  }
+  
+  /* 🎨 Fondos personalizados */
+  .bg-morning-birch {
+    background-color: var(--color-morning-birch);
+  }
+  .bg-alpine-clay {
+    background-color: var(--color-alpine-clay);
+  }
+  .bg-misty-sage {
+    background-color: var(--color-misty-sage);
+  }
+  .bg-wild-mustard {
+    background-color: var(--color-wild-mustard);
+  }
+  .bg-evergreen-shadow {
+    background-color: var(--color-evergreen-shadow);
+  }
+  
